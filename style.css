@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.texto {
+  max-width: 400px;
+  margin: 0;
+}
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+.item {
+  text-align: center;
+  align-self: center;
+}
+.column {
+  flex-direction: column;
+}
